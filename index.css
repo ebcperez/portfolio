@@ -13,6 +13,11 @@
 #navoption:hover {
   background-color: #111;
 }
+#title {
+  color: #DDD;
+  background: url('http://touchactiv.com/wp-content/uploads/2015/11/maxresdefault.jpg');
+  background-size: cover;
+}
 #contact:hover {
   color: white;
 }
