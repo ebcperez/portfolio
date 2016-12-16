@@ -1,2 +1,2 @@
 # portfolio
-portfolio website made using bootstrap
+portfolio website made using react and bootstrap
