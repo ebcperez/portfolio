@@ -1,0 +1,45 @@
+.bg-1 { 
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+}
+.bg-4 {
+	background-color: #888;
+	color: #FFF;
+}
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.navbar {
+	padding: 15px 0px;
+	border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+.contact {
+	padding: 40px 0px;
+	background-color: #7D7D7D;
+}
+.contact-icons {
+	padding: 0px 5px;
+}
+body {
+	font-family: Open Sans;
+}
+.back-to-top {
+	cursor: pointer;
+	position: fixed;
+	bottom: 0;
+	right: 20px;
+	z-index: 1;
+	display:none;
+}
